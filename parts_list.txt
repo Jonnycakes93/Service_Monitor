@@ -1,0 +1,9 @@
+Qty  Part
+1    Raspberry Pi 5
+1    Raspberry Pi Zero 2W
+1    ST7789 2.0" 320x240 Color IPS TFT Display
+1    Rotary Encoder
+1    Button
+1    LED
+1    Mini Breadboard
+1000 Wires
