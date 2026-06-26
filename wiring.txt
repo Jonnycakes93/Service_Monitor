@@ -1,1 +1,27 @@
-
+* Raspberry Pi 5
+* Raspberry Pi Zero 2W
+* ST7789 2.0" 320x240 Color IPS TFT Display
+    VIN        02w-3V
+    3.3V
+    GND        02w-GND
+    SCK        02W-SLCK
+    MISO
+    MOSI       02w-MOSI
+    LCD CS
+    RESET      02w-GPIO 24
+    D/C        02w-GPIO 25
+    SD CS
+    BACKLIGHT
+* Rotary Encoder
+    CLK        02w-GPIO 17
+    DT         02w-GPIO 27
+    SW         02w-GPIO 22
+    +          02w-5V 
+    GND        02w-GND
+* Button
+    input
+    output
+* LED
+    anode
+    cathode
+* Mini Breadboard
